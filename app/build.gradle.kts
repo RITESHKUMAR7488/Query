@@ -67,6 +67,10 @@ dependencies {
     implementation(libs.ktor.client.core)
     //serialization
     implementation(libs.kotlinx.serialization.json)
+    //Toast
+    implementation (libs.motiontoast)
+
+
 
 
 }
